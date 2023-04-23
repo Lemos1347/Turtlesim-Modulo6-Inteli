@@ -1,7 +1,7 @@
 # Turtlesim-Modulo6-Inteli
 # Desenhando uma paisagem no TurtleSim
 
-Este repositório contém um arquivo Python que utiliza o ROS e o TurtleSim para desenhar uma paisagem simples com montanhas, chão, céu e sol. O código cria e controla várias tartarugas, altera suas cores e as move para criar a paisagem. 
+Este repositório é a resposta para uma atividade avaliada da faculdade Inteli. Essa atividade busca o entendimento inicial de `ROS` utilizando o TurtleSim como base. A resposta da atividade contém um arquivo Python que utiliza o ROS e o TurtleSim para desenhar uma paisagem simples com montanhas, chão, céu e sol. O código cria e controla várias tartarugas, altera suas cores e as move para criar a paisagem. 
 
 ## Requisitos
 
