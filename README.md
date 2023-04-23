@@ -46,4 +46,5 @@ Para executar o código, siga estas etapas:
 ```pyhton
 python3 main.py
 ``` 
-
+## Vídeo Demo
+[![Watch the video](Tela.png)](funcionamento.mov)
