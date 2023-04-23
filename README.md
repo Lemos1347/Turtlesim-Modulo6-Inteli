@@ -51,4 +51,4 @@ python3 main.py
 
 ## Vídeo Demo
 
-<video src='funcionamento.mov'>
+<video src='funcionamento.mov'/>
