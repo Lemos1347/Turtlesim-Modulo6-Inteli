@@ -51,5 +51,4 @@ python3 main.py
 
 ## Vídeo Demo
 
-<video src="funcionamento.mov" controls="controls" style="max-width: 730px;">
-</video>
+https://user-images.githubusercontent.com/99190347/233860830-a713b7b5-389e-4dac-819e-6a0dbdf1bf6f.mov
